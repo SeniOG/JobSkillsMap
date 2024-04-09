@@ -10,4 +10,4 @@ Requires:
 
 To run:
 
-execute the file name in the terminal.
+Run the code blocks from top to bottom
